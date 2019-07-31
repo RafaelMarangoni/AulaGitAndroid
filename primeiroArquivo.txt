@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Lucas 04/03
+=======
+Eduardo - 05/11
+>>>>>>> ecf6c33093b8032b2e25866f59dee7cdda5a58ce
 =======
 Hendy - 27/12
 
